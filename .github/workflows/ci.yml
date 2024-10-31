@@ -48,7 +48,7 @@ jobs:
             fox.jason.extend.css
             fox.jason.prismjs
           build: |
-              dita -i dita/document.ditamap -o out/pdf -f pdf --theme=.github/themes/theme.yaml --org.dita.index.skip="yes" --filter=dita/adult.ditiaval
+              dita -i dita/document.ditamap -o out/pdf -f pdf --theme=.github/themes/theme.yaml --org.dita.index.skip="yes" --filter=dita/adult.ditaval
          # If you have a DITAVal, replace the previous line with the following:
             # dita -i dita/document.ditamap -o out/pdf -f pdf --theme=.github/themes/theme.yaml --org.dita.index.skip="yes" --filter=myfilter.ditaval
       - name: Upload PDF 📚
