@@ -3,4 +3,5 @@
 <map>
   <title>My Story</title>
   <topicref href="index.dita"> </topicref>
+   <topicref href="chapter-1.dita"> </topicref>
 </map>
