@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_w23_5t2_bdc">
-    <title>Little Red Riding Hood Retelling</title>
+    <title>commitLittle Red Riding Hood Retelling</title>
     <body>
-        <p>Little Red Riding Hood is a story written for <ph audience="children"
-                >children</ph><ph>adults</ph></p>
+        <p>Little Red Riding Hood is a story written for <ph audience="children">children</ph> and
+                <ph>adults</ph></p>
     </body>
 </topic>
