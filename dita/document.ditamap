@@ -3,13 +3,11 @@
 <map>
   <title>My Story</title>
   <topicref href="index.dita"> </topicref>
-<<<<<<< HEAD
-  <topicref href="chapter-1.dita"> </topicref>
+   <topicref href="chapter-1.dita"> </topicref>
   <topicref href="chapter-2.dita"> </topicref>
   <topicref href="chapter-3.dita"> </topicref>
   <topicref href="chapter-4.dita"> </topicref>
-  <topicref href="chapter-5.dita"> </topicref>
+  <topicref href="chapter-5_1.dita"> </topicref>
   <topicref href="chapter-6.dita"> </topicref>
   <topicref href="chapter-7.dita"> </topicref>
-=======
 </map>
